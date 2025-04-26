@@ -1,0 +1,1952 @@
+{
+    "truthQuestions": [
+      {
+        "id": 1,
+        "question": "What is your most embarrassing childhood memory?",
+        "category": "personal"
+      },
+      {
+        "id": 2,
+        "question": "If you could read anyone's mind for a day, whose would it be and why?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 3,
+        "question": "What's the weirdest food combination you secretly enjoy?",
+        "category": "funny"
+      },
+      {
+        "id": 4,
+        "question": "What's your biggest irrational fear?",
+        "category": "personal"
+      },
+      {
+        "id": 5,
+        "question": "Have you ever pretended to know something you didn't? What was it?",
+        "category": "confession"
+      },
+      {
+        "id": 6,
+        "question": "What's the most childish thing you still do?",
+        "category": "funny"
+      },
+      {
+        "id": 7,
+        "question": "What's the longest you've gone without showering and why?",
+        "category": "personal"
+      },
+      {
+        "id": 8,
+        "question": "If you had to get a tattoo right now, what would it be and where?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 9,
+        "question": "What's something you've done that you think no one else in this room has done?",
+        "category": "unique"
+      },
+      {
+        "id": 10,
+        "question": "What's the most ridiculous thing you've convinced someone to believe?",
+        "category": "funny"
+      },
+      {
+        "id": 11,
+        "question": "What's the most trouble you've been in with your parents/authority?",
+        "category": "confession"
+      },
+      {
+        "id": 12,
+        "question": "What's your most useless talent?",
+        "category": "funny"
+      },
+      {
+        "id": 13,
+        "question": "What's a lie you've told that got completely out of hand?",
+        "category": "confession"
+      },
+      {
+        "id": 14,
+        "question": "If you could trade lives with anyone in this room for a day, who would it be?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 15,
+        "question": "What's your worst habit that you're embarrassed about?",
+        "category": "personal"
+      },
+      {
+        "id": 16,
+        "question": "What's the strangest dream you've ever had?",
+        "category": "weird"
+      },
+      {
+        "id": 17,
+        "question": "What's a secret you kept from your parents when you were younger?",
+        "category": "confession"
+      },
+      {
+        "id": 18,
+        "question": "What's the most embarrassing thing you've looked up online?",
+        "category": "personal"
+      },
+      {
+        "id": 19,
+        "question": "When was the last time you cried and why?",
+        "category": "emotional"
+      },
+      {
+        "id": 20,
+        "question": "If you had to be trapped in a TV show for a month, which one would you choose?",
+        "category": "entertainment"
+      },
+      {
+        "id": 21,
+        "question": "What's the most embarrassing thing you've ever worn?",
+        "category": "personal"
+      },
+      {
+        "id": 22,
+        "question": "What's something you're terrible at but wish you were good at?",
+        "category": "aspirational"
+      },
+      {
+        "id": 23,
+        "question": "What's a silly thing you're afraid of?",
+        "category": "funny"
+      },
+      {
+        "id": 24,
+        "question": "What's your guilty pleasure TV show or movie?",
+        "category": "entertainment"
+      },
+      {
+        "id": 25,
+        "question": "What's the worst gift you've ever received and how did you react?",
+        "category": "funny"
+      },
+      {
+        "id": 26,
+        "question": "What's something you've stolen?",
+        "category": "confession"
+      },
+      {
+        "id": 27,
+        "question": "What's the most disgusting thing you've ever eaten?",
+        "category": "gross"
+      },
+      {
+        "id": 28,
+        "question": "If you could erase one experience from your memory, what would it be?",
+        "category": "deep"
+      },
+      {
+        "id": 29,
+        "question": "What's the worst physical pain you've experienced?",
+        "category": "physical"
+      },
+      {
+        "id": 30,
+        "question": "What's your most embarrassing bathroom story?",
+        "category": "gross"
+      },
+      {
+        "id": 31,
+        "question": "What's the weirdest thing you've ever eaten?",
+        "category": "weird"
+      },
+      {
+        "id": 32,
+        "question": "Have you ever cheated on a test? How?",
+        "category": "confession"
+      },
+      {
+        "id": 33,
+        "question": "What's the most money you've spent on something ridiculous?",
+        "category": "personal"
+      },
+      {
+        "id": 34,
+        "question": "What's your strangest phobia?",
+        "category": "weird"
+      },
+      {
+        "id": 35,
+        "question": "What's the most embarrassing thing your parents have caught you doing?",
+        "category": "confession"
+      },
+      {
+        "id": 36,
+        "question": "What's something about you that would surprise everyone here?",
+        "category": "personal"
+      },
+      {
+        "id": 37,
+        "question": "What's the worst fashion decision you've ever made?",
+        "category": "funny"
+      },
+      {
+        "id": 38,
+        "question": "Have you ever had an imaginary friend? What were they like?",
+        "category": "childhood"
+      },
+      {
+        "id": 39,
+        "question": "What's the weirdest place you've fallen asleep?",
+        "category": "funny"
+      },
+      {
+        "id": 40,
+        "question": "What's something you did as a kid that you thought was cool but was actually really lame?",
+        "category": "childhood"
+      },
+      {
+        "id": 41,
+        "question": "What's the most embarrassing nickname you've ever had?",
+        "category": "personal"
+      },
+      {
+        "id": 42,
+        "question": "If you had to listen to one song for the rest of your life, what would it be?",
+        "category": "entertainment"
+      },
+      {
+        "id": 43,
+        "question": "Have you ever had a paranormal experience? What happened?",
+        "category": "spooky"
+      },
+      {
+        "id": 44,
+        "question": "What's the worst date you've ever been on?",
+        "category": "romantic"
+      },
+      {
+        "id": 45,
+        "question": "What's the most ridiculous thing you've done because someone dared you to?",
+        "category": "funny"
+      },
+      {
+        "id": 46,
+        "question": "If you could choose to master one skill instantly, what would it be?",
+        "category": "aspirational"
+      },
+      {
+        "id": 47,
+        "question": "What was your most awkward moment with a crush?",
+        "category": "romantic"
+      },
+      {
+        "id": 48,
+        "question": "What's the last thing you Googled that you wouldn't want others to know about?",
+        "category": "digital"
+      },
+      {
+        "id": 49,
+        "question": "What's something you've done that you think might qualify for a world record?",
+        "category": "unique"
+      },
+      {
+        "id": 50,
+        "question": "What's the strangest thought you've had while zoning out in public?",
+        "category": "weird"
+      },
+      {
+        "id": 51,
+        "question": "What's your deepest fear about the future?",
+        "category": "deep"
+      },
+      {
+        "id": 52,
+        "question": "What's the worst physical pain you've experienced?",
+        "category": "physical"
+      },
+      {
+        "id": 53,
+        "question": "What's your strongest memory from childhood?",
+        "category": "memory"
+      },
+      {
+        "id": 54,
+        "question": "If you could know the absolute truth to one question, what would you ask?",
+        "category": "philosophical"
+      },
+      {
+        "id": 55,
+        "question": "What's the worst advice you've ever given?",
+        "category": "confession"
+      },
+      {
+        "id": 56,
+        "question": "What's something you've never told anyone?",
+        "category": "deep"
+      },
+      {
+        "id": 57,
+        "question": "What's the worst thing you've ever said to someone?",
+        "category": "confession"
+      },
+      {
+        "id": 58,
+        "question": "What's your biggest regret in life so far?",
+        "category": "deep"
+      },
+      {
+        "id": 59,
+        "question": "What's a secret you've kept from your best friend?",
+        "category": "personal"
+      },
+      {
+        "id": 60,
+        "question": "What's the most hurtful thing someone has said to you?",
+        "category": "emotional"
+      },
+      {
+        "id": 61,
+        "question": "What's your fear that keeps you up at night?",
+        "category": "spooky"
+      },
+      {
+        "id": 62,
+        "question": "If you had to give up one of your five senses, which would it be and why?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 63,
+        "question": "What's the most pain you've inflicted on someone else?",
+        "category": "confession"
+      },
+      {
+        "id": 64,
+        "question": "What's the most desperate thing you've done when you were broke?",
+        "category": "confession"
+      },
+      {
+        "id": 65,
+        "question": "What's a weird habit you have that nobody knows about?",
+        "category": "weird"
+      },
+      {
+        "id": 66,
+        "question": "What's the biggest mistake you've made at work or school?",
+        "category": "confession"
+      },
+      {
+        "id": 67,
+        "question": "Have you ever had a supernatural encounter you can't explain?",
+        "category": "spooky"
+      },
+      {
+        "id": 68,
+        "question": "What's something you believed for way too long before finding out it wasn't true?",
+        "category": "funny"
+      },
+      {
+        "id": 69,
+        "question": "What's the most inappropriate thing you've laughed at?",
+        "category": "confession"
+      },
+      {
+        "id": 70,
+        "question": "What's a hobby you have that might surprise people?",
+        "category": "personal"
+      },
+      {
+        "id": 71,
+        "question": "If you could only eat one food for the rest of your life, what would it be?",
+        "category": "food"
+      },
+      {
+        "id": 72,
+        "question": "What's your most irrational decision you've ever made?",
+        "category": "confession"
+      },
+      {
+        "id": 73,
+        "question": "What's the longest you've gone without sleep and why?",
+        "category": "physical"
+      },
+      {
+        "id": 74,
+        "question": "If you had to live as an animal for a year, which would you choose?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 75,
+        "question": "What's your strangest late-night craving?",
+        "category": "food"
+      },
+      {
+        "id": 76,
+        "question": "What's something you've never learned to do that most people can?",
+        "category": "personal"
+      },
+      {
+        "id": 77,
+        "question": "What's the most dangerous thing you've ever done?",
+        "category": "thrill"
+      },
+      {
+        "id": 78,
+        "question": "What's a social situation that makes you incredibly uncomfortable?",
+        "category": "personal"
+      },
+      {
+        "id": 79,
+        "question": "What's a recurring dream or nightmare you have?",
+        "category": "spooky"
+      },
+      {
+        "id": 80,
+        "question": "If you had to give yourself a new first name, what would it be?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 81,
+        "question": "What's the most expensive thing you've broken?",
+        "category": "confession"
+      },
+      {
+        "id": 82,
+        "question": "What's something you pretend to understand but actually don't?",
+        "category": "confession"
+      },
+      {
+        "id": 83,
+        "question": "What's the most immature thing you still do?",
+        "category": "funny"
+      },
+      {
+        "id": 84,
+        "question": "What's something that always makes you cry?",
+        "category": "emotional"
+      },
+      {
+        "id": 85,
+        "question": "What's the longest you've held a grudge?",
+        "category": "personal"
+      },
+      {
+        "id": 86,
+        "question": "If you could choose when and how to die, what would you pick?",
+        "category": "deep"
+      },
+      {
+        "id": 87,
+        "question": "What's your biggest pet peeve about other people?",
+        "category": "personal"
+      },
+      {
+        "id": 88,
+        "question": "What's the most painful rejection you've experienced?",
+        "category": "emotional"
+      },
+      {
+        "id": 89,
+        "question": "If you could time travel, what year would you visit and why?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 90,
+        "question": "What's something you wish you could forget?",
+        "category": "deep"
+      },
+      {
+        "id": 91,
+        "question": "What's the darkest thought you've ever had?",
+        "category": "deep"
+      },
+      {
+        "id": 92,
+        "question": "What's a lie you tell yourself?",
+        "category": "psychological"
+      },
+      {
+        "id": 93,
+        "question": "When was the last time you completely lost control of your emotions?",
+        "category": "emotional"
+      },
+      {
+        "id": 94,
+        "question": "What's a secret you've kept from your family?",
+        "category": "personal"
+      },
+      {
+        "id": 95,
+        "question": "What's the most rebellious thing you did as a teenager?",
+        "category": "confession"
+      },
+      {
+        "id": 96,
+        "question": "What's something that happened to you that sounds made up?",
+        "category": "unique"
+      },
+      {
+        "id": 97,
+        "question": "Have you ever had a paranormal experience you can't explain?",
+        "category": "spooky"
+      },
+      {
+        "id": 98,
+        "question": "What's your strangest bathroom habit?",
+        "category": "gross"
+      },
+      {
+        "id": 99,
+        "question": "What was your most awkward phase growing up?",
+        "category": "childhood"
+      },
+      {
+        "id": 100,
+        "question": "If you could eat only one food for the rest of your life, what would it be?",
+        "category": "food"
+      },
+      {
+        "id": 101,
+        "question": "What's the most scared you've ever been?",
+        "category": "spooky"
+      },
+      {
+        "id": 102,
+        "question": "What's something you're ashamed to admit you enjoy?",
+        "category": "confession"
+      },
+      {
+        "id": 103,
+        "question": "What's the worst nickname you've been given?",
+        "category": "personal"
+      },
+      {
+        "id": 104,
+        "question": "What's your weirdest deal-breaker in a relationship?",
+        "category": "romantic"
+      },
+      {
+        "id": 105,
+        "question": "What was your imaginary friend like as a child?",
+        "category": "childhood"
+      },
+      {
+        "id": 106,
+        "question": "Have you ever experienced something you can't explain logically?",
+        "category": "spooky"
+      },
+      {
+        "id": 107,
+        "question": "What's the meanest thought you've had about someone in this room?",
+        "category": "confession"
+      },
+      {
+        "id": 108,
+        "question": "What's your most embarrassing medical story?",
+        "category": "medical"
+      },
+      {
+        "id": 109,
+        "question": "What's something you'd do if you knew there would be no consequences?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 110,
+        "question": "What's the longest you've gone without bathing and why?",
+        "category": "gross"
+      },
+      {
+        "id": 111,
+        "question": "What's the most embarrassing thing in your search history?",
+        "category": "digital"
+      },
+      {
+        "id": 112,
+        "question": "What's a weird thing that turns you on?",
+        "category": "romantic"
+      },
+      {
+        "id": 113,
+        "question": "What's the worst excuse you've used to get out of something?",
+        "category": "funny"
+      },
+      {
+        "id": 114,
+        "question": "What's the most spontaneous thing you've ever done?",
+        "category": "adventure"
+      },
+      {
+        "id": 115,
+        "question": "What's a secret talent nobody knows you have?",
+        "category": "personal"
+      },
+      {
+        "id": 116,
+        "question": "What's your weirdest intrusive thought?",
+        "category": "psychological"
+      },
+      {
+        "id": 117,
+        "question": "What's the most desperate thing you've done for attention?",
+        "category": "confession"
+      },
+      {
+        "id": 118,
+        "question": "If you could erase one person from history, who would it be?",
+        "category": "ethical"
+      },
+      {
+        "id": 119,
+        "question": "What's the weirdest thing you've seen in someone else's home?",
+        "category": "weird"
+      },
+      {
+        "id": 120,
+        "question": "What's the stupidest way you've been injured?",
+        "category": "funny"
+      },
+      {
+        "id": 121,
+        "question": "What's a fact about yourself that sounds like a lie but is true?",
+        "category": "unique"
+      },
+      {
+        "id": 122,
+        "question": "What's the worst thing you've ever smelled?",
+        "category": "gross"
+      },
+      {
+        "id": 123,
+        "question": "What's something you know about someone else in this room that they don't know you know?",
+        "category": "confession"
+      },
+      {
+        "id": 124,
+        "question": "If you could read anyone's mind for a day, whose would it be?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 125,
+        "question": "What's the most physical pain you've ever been in?",
+        "category": "physical"
+      },
+      {
+        "id": 126,
+        "question": "Have you ever had a dream that felt too real?",
+        "category": "spooky"
+      },
+      {
+        "id": 127,
+        "question": "What's something people would never guess about you just by looking?",
+        "category": "personal"
+      },
+      {
+        "id": 128,
+        "question": "What's the craziest thing you've done on a dare?",
+        "category": "adventure"
+      },
+      {
+        "id": 129,
+        "question": "What's your biggest insecurity?",
+        "category": "deep"
+      },
+      {
+        "id": 130,
+        "question": "What's a strange thing you do when no one is around?",
+        "category": "weird"
+      },
+      {
+        "id": 131,
+        "question": "What's something you've done that you'd judge others for doing?",
+        "category": "confession"
+      },
+      {
+        "id": 132,
+        "question": "What fictional character do you identify with most and why?",
+        "category": "entertainment"
+      },
+      {
+        "id": 133,
+        "question": "What's the creepiest thing you've experienced while alone?",
+        "category": "horror"
+      },
+      {
+        "id": 134,
+        "question": "If you could swap lives with anyone here for a day, who would it be?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 135,
+        "question": "What's your most embarrassing drunk story?",
+        "category": "confession"
+      },
+      {
+        "id": 136,
+        "question": "What's something small that completely terrifies you?",
+        "category": "fear"
+      },
+      {
+        "id": 137,
+        "question": "What's the most inappropriate time you've laughed?",
+        "category": "funny"
+      },
+      {
+        "id": 138,
+        "question": "What's something you believe but would never admit publicly?",
+        "category": "controversial"
+      },
+      {
+        "id": 139,
+        "question": "If you had to be stuck in a horror movie, which one would it be?",
+        "category": "horror"
+      },
+      {
+        "id": 140,
+        "question": "What's the shallowest reason you've rejected someone?",
+        "category": "romantic"
+      },
+      {
+        "id": 141,
+        "question": "What's something that always makes you nostalgic?",
+        "category": "emotional"
+      },
+      {
+        "id": 142,
+        "question": "What's the weirdest thing you've done at a sleepover?",
+        "category": "childhood"
+      },
+      {
+        "id": 143,
+        "question": "What's a strange thing you collect or have collected?",
+        "category": "hobby"
+      },
+      {
+        "id": 144,
+        "question": "What's your most embarrassing wardrobe malfunction?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 145,
+        "question": "What's the most ridiculous rumor you've heard about yourself?",
+        "category": "funny"
+      },
+      {
+        "id": 146,
+        "question": "What's the most disgusting thing you've witnessed?",
+        "category": "gross"
+      },
+      {
+        "id": 147,
+        "question": "If you had to get a tattoo right now, what would it be?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 148,
+        "question": "What's the most awkward encounter you've had with a stranger?",
+        "category": "social"
+      },
+      {
+        "id": 149,
+        "question": "What's something you're secretly proud of?",
+        "category": "personal"
+      },
+      {
+        "id": 150,
+        "question": "What's a memory that always makes you cringe when you think about it?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 151,
+        "question": "Have you ever encountered something in the wilderness that scared you?",
+        "category": "nature"
+      },
+      {
+        "id": 152,
+        "question": "What's a recurring intrusive thought you have?",
+        "category": "psychological"
+      },
+      {
+        "id": 153,
+        "question": "What's a secret about your family that others don't know?",
+        "category": "family"
+      },
+      {
+        "id": 154,
+        "question": "What fictional universe would you most want to live in?",
+        "category": "entertainment"
+      },
+      {
+        "id": 155,
+        "question": "What's something you love that everyone else seems to hate?",
+        "category": "preferences"
+      },
+      {
+        "id": 156,
+        "question": "Have you ever witnessed something you weren't supposed to see?",
+        "category": "confession"
+      },
+      {
+        "id": 157,
+        "question": "What's your most embarrassing school memory?",
+        "category": "childhood"
+      },
+      {
+        "id": 158,
+        "question": "What's your favorite memory with someone who's no longer in your life?",
+        "category": "emotional"
+      },
+      {
+        "id": 159,
+        "question": "If you could become invisible for a day, what would you do?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 160,
+        "question": "What's the saddest you've ever been?",
+        "category": "emotional"
+      },
+      {
+        "id": 161,
+        "question": "What's the most physically uncomfortable situation you've been in?",
+        "category": "physical"
+      },
+      {
+        "id": 162,
+        "question": "What's the most unsettling thing a child has ever said to you?",
+        "category": "spooky"
+      },
+      {
+        "id": 163,
+        "question": "What's something you're still embarrassed about years later?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 164,
+        "question": "If you had to lose one of your five senses, which would you choose?",
+        "category": "hypothetical"
+      },
+      {
+        "id": 165,
+        "question": "What's your most valuable possession and why?",
+        "category": "personal"
+      },
+      {
+        "id": 166,
+        "question": "What's a song that makes you emotional and why?",
+        "category": "emotional"
+      },
+      {
+        "id": 167,
+        "question": "What's the worst job you've ever had?",
+        "category": "work"
+      },
+      {
+        "id": 168,
+        "question": "What's the most uncomfortable situation you've been in with your in-laws?",
+        "category": "family"
+      },
+      {
+        "id": 169,
+        "question": "If you could master any skill instantly, what would it be?",
+        "category": "aspirational"
+      },
+      {
+        "id": 170,
+        "question": "What's the most embarrassing thing you've done while on autopilot?",
+        "category": "funny"
+      },
+      {
+        "id": 171,
+        "question": "What's the most morally questionable thing you've done?",
+        "category": "ethical"
+      },
+      {
+        "id": 172,
+        "question": "What's a dream you've given up on?",
+        "category": "aspirational"
+      },
+      {
+        "id": 173,
+        "question": "If you could change one decision from your past, what would it be?",
+        "category": "deep"
+      },
+      {
+        "id": 174,
+        "question": "What's something you did as a kid that you thought was normal but wasn't?",
+        "category": "childhood"
+      },
+      {
+        "id": 175,
+        "question": "What's your most unusual fear?",
+        "category": "fear"
+      },
+      {
+        "id": 176,
+        "question": "What's a trait you dislike in others but have yourself?",
+        "category": "psychological"
+      },
+      {
+        "id": 177,
+        "question": "What's the strangest place you've fallen asleep?",
+        "category": "funny"
+      },
+      {
+        "id": 178,
+        "question": "What's something you've done that you would judge someone else for doing?",
+        "category": "ethical"
+      },
+      {
+        "id": 179,
+        "question": "What's the most heartbroken you've ever been?",
+        "category": "emotional"
+      },
+      {
+        "id": 180,
+        "question": "What's a belief you used to hold strongly but have since changed your mind about?",
+        "category": "philosophical"
+      },
+      {
+        "id": 181,
+        "question": "What's something you're afraid people will find out about you?",
+        "category": "deep"
+      },
+      {
+        "id": 182,
+        "question": "What's the biggest secret you've kept for someone else?",
+        "category": "confidential"
+      },
+      {
+        "id": 183,
+        "question": "What's a song that always makes you feel strong emotions?",
+        "category": "emotional"
+      },
+      {
+        "id": 184,
+        "question": "What's one thing about your upbringing you would change?",
+        "category": "family"
+      },
+      {
+        "id": 185,
+        "question": "What's the most creative excuse you've used to get out of something?",
+        "category": "funny"
+      },
+      {
+        "id": 186,
+        "question": "What's a superstition you follow even though you know it's irrational?",
+        "category": "weird"
+      },
+      {
+        "id": 187,
+        "question": "What's the worst misinterpretation you've experienced?",
+        "category": "funny"
+      },
+      {
+        "id": 188,
+        "question": "What's something you know you need to do but keep avoiding?",
+        "category": "personal"
+      },
+      {
+        "id": 189,
+        "question": "What's the most hurtful feedback you've ever received?",
+        "category": "emotional"
+      },
+      {
+        "id": 190,
+        "question": "What's a memory that makes you question your perception of reality?",
+        "category": "psychological"
+      },
+      {
+        "id": 191,
+        "question": "What's something you've experienced that others would find hard to believe?",
+        "category": "unique"
+      },
+      {
+        "id": 192,
+        "question": "What's your biggest insecurity about your personality?",
+        "category": "deep"
+      },
+      {
+        "id": 193,
+        "question": "What's the worst haircut you've ever had?",
+        "category": "funny"
+      },{
+        "id": 193,
+        "question": "What's the worst haircut you've ever had?",
+        "category": "funny"
+      },
+      {
+        "id": 194,
+        "question": "What's something you used to be insecure about but aren't anymore?",
+        "category": "growth"
+      },
+      {
+        "id": 195,
+        "question": "Have you ever seen something you weren't supposed to see?",
+        "category": "confession"
+      },
+      {
+        "id": 196,
+        "question": "What's the most vivid nightmare you've ever had?",
+        "category": "horror"
+      },
+      {
+        "id": 197,
+        "question": "What's a habit you have that annoys others?",
+        "category": "personal"
+      },
+      {
+        "id": 198,
+        "question": "What's your most toxic trait?",
+        "category": "psychological"
+      },
+      {
+        "id": 199,
+        "question": "What's something you've tried that you'll never try again?",
+        "category": "experience"
+      },
+      {
+        "id": 200,
+        "question": "What's the worst financial decision you've ever made?",
+        "category": "confession"
+      },
+      {
+        "id": 201,
+        "question": "What's something no one knows about your childhood?",
+        "category": "childhood"
+      },
+      {
+        "id": 202,
+        "question": "What's the creepiest place you've ever been?",
+        "category": "horror"
+      },
+      {
+        "id": 203,
+        "question": "What's a secret about your job that customers/clients don't know?",
+        "category": "work"
+      },
+      {
+        "id": 204,
+        "question": "What's something you've always wanted to confess to someone but never did?",
+        "category": "deep"
+      },
+      {
+        "id": 205,
+        "question": "What's the longest you've gone without changing your underwear?",
+        "category": "gross"
+      },
+      {
+        "id": 206,
+        "question": "What's your most unusual passion or interest?",
+        "category": "unique"
+      },
+      {
+        "id": 207,
+        "question": "What's a lie you tell yourself regularly?",
+        "category": "psychological"
+      },
+      {
+        "id": 208,
+        "question": "Have you ever been in a physical fight? What happened?",
+        "category": "physical"
+      },
+      {
+        "id": 209,
+        "question": "What's the meanest thing you've done to someone?",
+        "category": "confession"
+      },
+      {
+        "id": 210,
+        "question": "What's the weirdest text you've sent to the wrong person?",
+        "category": "digital"
+      },
+      {
+        "id": 211,
+        "question": "What's something you've done while drunk that you'd never do sober?",
+        "category": "confession"
+      },
+      {
+        "id": 212,
+        "question": "When was the last time you were truly terrified?",
+        "category": "fear"
+      },
+      {
+        "id": 213,
+        "question": "What's a weird food craving you have?",
+        "category": "food"
+      },
+      {
+        "id": 214,
+        "question": "What's something you secretly judge others for?",
+        "category": "psychological"
+      },
+      {
+        "id": 215,
+        "question": "What's a random skill you have that's completely useless?",
+        "category": "funny"
+      },
+      {
+        "id": 216,
+        "question": "What's your weirdest habit when you're alone?",
+        "category": "weird"
+      },
+      {
+        "id": 217,
+        "question": "What's something you did as a teenager that your parents still don't know about?",
+        "category": "confession"
+      },
+      {
+        "id": 218,
+        "question": "What's your greatest fear about getting older?",
+        "category": "deep"
+      },
+      {
+        "id": 219,
+        "question": "What's a movie that disturbed you deeply?",
+        "category": "entertainment"
+      },
+      {
+        "id": 220,
+        "question": "What's the biggest risk you've taken that didn't pay off?",
+        "category": "personal"
+      },
+      {
+        "id": 221,
+        "question": "What's the most bizarre thing you've witnessed in public?",
+        "category": "weird"
+      },
+      {
+        "id": 222,
+        "question": "What's something people would be surprised to learn about your career?",
+        "category": "work"
+      },
+      {
+        "id": 223,
+        "question": "What's a recurring dream you have?",
+        "category": "psychological"
+      },
+      {
+        "id": 224,
+        "question": "What's the most adventurous thing you've done in bed?",
+        "category": "intimate"
+      },
+      {
+        "id": 225,
+        "question": "What's something you irrationally hate?",
+        "category": "funny"
+      },
+      {
+        "id": 226,
+        "question": "What's a lie you told that spiraled out of control?",
+        "category": "confession"
+      },
+      {
+        "id": 227,
+        "question": "What's something about your appearance you've always been insecure about?",
+        "category": "personal"
+      },
+      {
+        "id": 228,
+        "question": "What's your most embarrassing moment in front of a crush?",
+        "category": "romantic"
+      },
+      {
+        "id": 229,
+        "question": "What's a time when you completely misjudged someone?",
+        "category": "social"
+      },
+      {
+        "id": 230,
+        "question": "What's something you're worried might be wrong with you?",
+        "category": "health"
+      },
+      {
+        "id": 231,
+        "question": "What's the longest you've stalked someone online?",
+        "category": "digital"
+      },
+      {
+        "id": 232,
+        "question": "What's a game or challenge you know you'd fail at?",
+        "category": "personal"
+      },
+      {
+        "id": 233,
+        "question": "What's the most uncomfortable situation you've been caught in?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 234,
+        "question": "What's something you've done that would make your younger self proud?",
+        "category": "aspirational"
+      },
+      {
+        "id": 235,
+        "question": "What's the scariest thing that's happened to you in the dark?",
+        "category": "horror"
+      },
+      {
+        "id": 236,
+        "question": "What's something you're good at but hate doing?",
+        "category": "personal"
+      },
+      {
+        "id": 237,
+        "question": "What's the weirdest coincidence you've experienced?",
+        "category": "weird"
+      },
+      {
+        "id": 238,
+        "question": "What's something your family does that you realized isn't normal?",
+        "category": "family"
+      },
+      {
+        "id": 239,
+        "question": "What's the most illegal thing you've done?",
+        "category": "confession"
+      },
+      {
+        "id": 240,
+        "question": "What's the most embarrassing song on your playlist?",
+        "category": "entertainment"
+      },
+      {
+        "id": 241,
+        "question": "What's something you've purposely broken?",
+        "category": "confession"
+      },
+      {
+        "id": 242,
+        "question": "What's a belief you hold that most people would disagree with?",
+        "category": "controversial"
+      },
+      {
+        "id": 243,
+        "question": "What's the most painful emotional experience you've had?",
+        "category": "emotional"
+      },
+      {
+        "id": 244,
+        "question": "If you could erase one memory, what would it be?",
+        "category": "deep"
+      },
+      {
+        "id": 245,
+        "question": "What's the grossest thing in your room right now?",
+        "category": "gross"
+      },
+      {
+        "id": 246,
+        "question": "What's an opinion you have that would be unpopular in this room?",
+        "category": "controversial"
+      },
+      {
+        "id": 247,
+        "question": "What's the worst thing you've ever smelled?",
+        "category": "gross"
+      },
+      {
+        "id": 248,
+        "question": "What was your biggest childhood fear?",
+        "category": "childhood"
+      },
+      {
+        "id": 249,
+        "question": "When was the last time you were genuinely surprised?",
+        "category": "emotional"
+      },
+      {
+        "id": 250,
+        "question": "What's the worst performance or presentation you've given?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 251,
+        "question": "What's a sound that drives you absolutely crazy?",
+        "category": "sensory"
+      },
+      {
+        "id": 252,
+        "question": "What's the most annoying thing your roommate or family member does?",
+        "category": "personal"
+      },
+      {
+        "id": 253,
+        "question": "What's something you've experienced that made you question reality?",
+        "category": "psychological"
+      },
+      {
+        "id": 254,
+        "question": "What's the worst physical injury you've witnessed?",
+        "category": "physical"
+      },
+      {
+        "id": 255,
+        "question": "What's something about yourself that you're in denial about?",
+        "category": "psychological"
+      },
+      {
+        "id": 256,
+        "question": "What's the most unusual place you've had an intimate moment?",
+        "category": "intimate"
+      },
+      {
+        "id": 257,
+        "question": "What's something you did as a child that your parents never found out about?",
+        "category": "childhood"
+      },
+      {
+        "id": 258,
+        "question": "What's a strange ritual or superstition you follow?",
+        "category": "weird"
+      },
+      {
+        "id": 259,
+        "question": "What's something that happened to you that still baffles you?",
+        "category": "mysterious"
+      },
+      {
+        "id": 260,
+        "question": "What's something about yourself that would shock people who know you?",
+        "category": "personal"
+      },
+      {
+        "id": 261,
+        "question": "What's a responsibility you're not ready for?",
+        "category": "deep"
+      },
+      {
+        "id": 262,
+        "question": "What's the most disappointed you've ever felt?",
+        "category": "emotional"
+      },
+      {
+        "id": 263,
+        "question": "What's something you've done that you immediately regretted?",
+        "category": "confession"
+      },
+      {
+        "id": 264,
+        "question": "What's something unusual you find attractive in others?",
+        "category": "romantic"
+      },
+      {
+        "id": 265,
+        "question": "What's the best lie you've ever told?",
+        "category": "confession"
+      },
+      {
+        "id": 266,
+        "question": "What's something you judge people for silently?",
+        "category": "personal"
+      },
+      {
+        "id": 267,
+        "question": "What's a strange or unusual thing you do when you're nervous?",
+        "category": "psychological"
+      },
+      {
+        "id": 268,
+        "question": "What's the most painful rejection you've experienced?",
+        "category": "emotional"
+      },
+      {
+        "id": 269,
+        "question": "What's something you're too afraid to ask anyone?",
+        "category": "deep"
+      },
+      {
+        "id": 270,
+        "question": "What's a strange talent you have that few people know about?",
+        "category": "unique"
+      },
+      {
+        "id": 271,
+        "question": "What's something you've experienced that sounds like it came from a movie?",
+        "category": "unique"
+      },
+      {
+        "id": 272,
+        "question": "What's something you've always wanted to try but are too scared to?",
+        "category": "aspirational"
+      },
+      {
+        "id": 273,
+        "question": "What's the creepiest thing a child has ever said to you?",
+        "category": "spooky"
+      },
+      {
+        "id": 274,
+        "question": "What's a recent dream that disturbed you?",
+        "category": "psychological"
+      },
+      {
+        "id": 275,
+        "question": "If you could speak to your past self, what would you warn them about?",
+        "category": "deep"
+      },
+      {
+        "id": 276,
+        "question": "What's the strangest request you've received?",
+        "category": "weird"
+      },
+      {
+        "id": 277,
+        "question": "What's something you've done that you'd be embarrassed if your family found out?",
+        "category": "confession"
+      },
+      {
+        "id": 278,
+        "question": "What's the most ashamed you've ever felt?",
+        "category": "emotional"
+      },
+      {
+        "id": 279,
+        "question": "What's something you wish you could change about your personality?",
+        "category": "personal"
+      },
+      {
+        "id": 280,
+        "question": "What's something weird you believed for far too long?",
+        "category": "funny"
+      },
+      {
+        "id": 281,
+        "question": "What's the most intense physical pain you've ever felt?",
+        "category": "physical"
+      },
+      {
+        "id": 282,
+        "question": "If you could forget one memory, what would it be?",
+        "category": "deep"
+      },
+      {
+        "id": 283,
+        "question": "What's the strangest compliment you've ever received?",
+        "category": "funny"
+      },
+      {
+        "id": 284,
+        "question": "What's a bad habit you just can't seem to break?",
+        "category": "personal"
+      },
+      {
+        "id": 285,
+        "question": "What's something you did that made you question your own sanity?",
+        "category": "psychological"
+      },
+      {
+        "id": 286,
+        "question": "What's the most physically uncomfortable situation you've been in?",
+        "category": "physical"
+      },
+      {
+        "id": 287,
+        "question": "What's a weird thing you do when no one is looking?",
+        "category": "weird"
+      },
+      {
+        "id": 288,
+        "question": "What's the most embarrassing thing you've said or done on a date?",
+        "category": "romantic"
+      },
+      {
+        "id": 289,
+        "question": "What's a personality trait you inherited from your parents that you dislike?",
+        "category": "family"
+      },
+      {
+        "id": 290,
+        "question": "What's an embarrassing childhood nickname you had?",
+        "category": "childhood"
+      },
+      {
+        "id": 291,
+        "question": "What's something you've never told anyone out of fear of judgment?",
+        "category": "deep"
+      },
+      {
+        "id": 292,
+        "question": "What's the most desperate thing you've done when you were broke?",
+        "category": "confession"
+      },
+      {
+        "id": 293,
+        "question": "What's a phobia you have that others find silly?",
+        "category": "fear"
+      },
+      {
+        "id": 294,
+        "question": "What's a strange habit you have while eating?",
+        "category": "food"
+      },
+      {
+        "id": 295,
+        "question": "What's the worst betrayal you've experienced?",
+        "category": "emotional"
+      },
+      {
+        "id": 296,
+        "question": "What's something you've wanted to say to someone but never did?",
+        "category": "personal"
+      },
+      {
+        "id": 297,
+        "question": "What's a weird thing that makes you uncomfortable?",
+        "category": "weird"
+      },
+      {
+        "id": 298,
+        "question": "What's something you've done that your younger self would be disappointed about?",
+        "category": "deep"
+      },
+      {
+        "id": 299,
+        "question": "What's the strangest thing you've googled?",
+        "category": "digital"
+      },
+      {
+        "id": 300,
+        "question": "What was your most embarrassing bathroom-related incident?",
+        "category": "gross"
+      },
+      {
+        "id": 301,
+        "question": "What's the scariest thing that's ever happened to you while home alone?",
+        "category": "horror"
+      },
+      {
+        "id": 302,
+        "question": "What's a random fact about yourself that nobody knows?",
+        "category": "personal"
+      },
+      {
+        "id": 303,
+        "question": "What's something weird you do when you think nobody is watching?",
+        "category": "weird"
+      },
+      {
+        "id": 304,
+        "question": "What's something you regret spending money on?",
+        "category": "confession"
+      },
+      {
+        "id": 305,
+        "question": "What's your biggest 'what if' in life?",
+        "category": "deep"
+      },
+      {
+        "id": 306,
+        "question": "What's the most out-of-character thing you've ever done?",
+        "category": "personal"
+      },
+      {
+        "id": 307,
+        "question": "What's a mental breakdown you've had that you still think about?",
+        "category": "emotional"
+      },
+      {
+        "id": 308,
+        "question": "What's something you wish you were better at?",
+        "category": "aspirational"
+      },
+      {
+        "id": 309,
+        "question": "What's the most frightened you've ever been?",
+        "category": "fear"
+      },
+      {
+        "id": 310,
+        "question": "What's the closest you've come to death?",
+        "category": "thrill"
+      },
+      {
+        "id": 311,
+        "question": "What's a recurring thought you have that you don't tell anyone?",
+        "category": "psychological"
+      },
+      {
+        "id": 312,
+        "question": "What's something you know about a friend that you pretend not to know?",
+        "category": "social"
+      },
+      {
+        "id": 313,
+        "question": "What's a movie or book that emotionally wrecked you?",
+        "category": "entertainment"
+      },
+      {
+        "id": 314,
+        "question": "What's something that happened to you that nobody believes?",
+        "category": "unique"
+      },
+      {
+        "id": 315,
+        "question": "What's the most trouble you've ever been in?",
+        "category": "confession"
+      },
+      {
+        "id": 316,
+        "question": "What's a physical feature you're self-conscious about?",
+        "category": "personal"
+      },
+      {
+        "id": 317,
+        "question": "What's the most unethical thing you've done for money?",
+        "category": "confession"
+      },
+      {
+        "id": 318,
+        "question": "What's a secret talent you have that would surprise everyone?",
+        "category": "unique"
+      },
+      {
+        "id": 319,
+        "question": "What's something you've always wanted to confess but never had the courage to?",
+        "category": "deep"
+      },
+      {
+        "id": 320,
+        "question": "What's the weirdest thing you've seen someone do when they thought no one was watching?",
+        "category": "funny"
+      },
+      {
+        "id": 321,
+        "question": "What's something you've done out of pure spite?",
+        "category": "confession"
+      },
+      {
+        "id": 322,
+        "question": "What's the most painful rejection you've experienced?",
+        "category": "emotional"
+      },
+      {
+        "id": 323,
+        "question": "What's a piece of knowledge you have that feels forbidden?",
+        "category": "mysterious"
+      },
+      {
+        "id": 324,
+        "question": "What's a strange habit you have while driving?",
+        "category": "weird"
+      },
+      {
+        "id": 325,
+        "question": "What's the weirdest thing you've ever eaten?",
+        "category": "food"
+      },
+      {
+        "id": 326,
+        "question": "What's something about your job that would shock customers?",
+        "category": "work"
+      },
+      {
+        "id": 327,
+        "question": "What's a fear you have that's completely irrational?",
+        "category": "fear"
+      },
+      {
+        "id": 328,
+        "question": "What's something you've done for attention?",
+        "category": "confession"
+      },
+      {
+        "id": 329,
+        "question": "What's something about yourself that contradicts your public image?",
+        "category": "personal"
+      },
+      {
+        "id": 330,
+        "question": "What's the most trouble you've been in with the law?",
+        "category": "confession"
+      },
+      {
+        "id": 331,
+        "question": "What's something you did as a teenager that still makes you cringe?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 332,
+        "question": "What's the most scared you've been while watching a horror movie?",
+        "category": "horror"
+      },
+      {
+        "id": 333,
+        "question": "What's a lie you tell yourself to feel better?",
+        "category": "psychological"
+      },
+      {
+        "id": 334,
+        "question": "What's the most physically demanding thing you've ever done?",
+        "category": "physical"
+      },
+      {
+        "id": 335,
+        "question": "What's the worst way you've been hurt emotionally?",
+        "category": "emotional"
+      },
+      {
+        "id": 336,
+        "question": "What's a weird food combination you secretly love?",
+        "category": "food"
+      },
+      {
+        "id": 337,
+        "question": "What's something you've learned the hard way?",
+        "category": "personal"
+      },
+      {
+        "id": 338,
+        "question": "What's something you did that you instantly regretted?",
+        "category": "confession"
+      },
+      {
+        "id": 339,
+        "question": "What's the most trouble you got into at school?",
+        "category": "childhood"
+      },
+      {
+        "id": 340,
+        "question": "What's a sensory experience that makes you uncomfortable?",
+        "category": "sensory"
+      },
+      {
+        "id": 341,
+        "question": "What's the most embarrassing thing that's happened to you during sex?",
+        "category": "intimate"
+      },
+      {
+        "id": 342,
+        "question": "What's something you've done that you're still guilty about?",
+        "category": "deep"
+      },
+      {
+        "id": 343,
+        "question": "What's a secret about your daily routine?",
+        "category": "personal"
+      },
+      {
+        "id": 344,
+        "question": "What's the worst physical pain you've experienced?",
+        "category": "physical"
+      },
+      {
+        "id": 345,
+        "question": "What's something strange you believed as a child?",
+        "category": "childhood"
+      },
+      {
+        "id": 346,
+        "question": "What's the most selfish thing you've done?",
+        "category": "confession"
+      },
+      {
+        "id": 347,
+        "question": "What's a recurring nightmare you have?",
+        "category": "horror"
+      },
+      {
+        "id": 348,
+        "question": "What's something you were blamed for but didn't do?",
+        "category": "personal"
+      },
+      {
+        "id": 349,
+        "question": "What's a situation where you completely froze up?",
+        "category": "psychological"
+      },
+      {
+        "id": 350,
+        "question": "What's the worst thing you've said to someone in anger?",
+        "category": "emotional"
+      },
+      {
+        "id": 351,
+        "question": "What's a strange comfort item you have?",
+        "category": "weird"
+      },
+      {
+        "id": 352,
+        "question": "What's the most physically sick you've ever been?",
+        "category": "health"
+      },
+      {
+        "id": 353,
+        "question": "What's something you think about when you can't sleep?",
+        "category": "psychological"
+      },
+      {
+        "id": 354,
+        "question": "What's a questionable thing you do to save money?",
+        "category": "funny"
+      },
+      {
+        "id": 355,
+        "question": "What's the most impulsive decision you've ever made?",
+        "category": "personal"
+      },
+      {
+        "id": 356,
+        "question": "What's something that always makes you emotional?",
+        "category": "emotional"
+      },
+      {
+        "id": 357,
+        "question": "What's the worst thing you've accidentally sent to the wrong person?",
+        "category": "digital"
+      },
+      {
+        "id": 358,
+        "question": "What's a time where you completely misread a situation?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 359,
+        "question": "What's the most reckless thing you've done?",
+        "category": "thrill"
+      },
+      {
+        "id": 360,
+        "question": "What's a belief or opinion you've changed your mind about?",
+        "category": "personal"
+      },
+      {
+        "id": 361,
+        "question": "What's the most severe injury you've sustained?",
+        "category": "physical"
+      },
+      {
+        "id": 362,
+        "question": "What's a secret you've kept from your best friend?",
+        "category": "confession"
+      },
+      {
+        "id": 363,
+        "question": "What's the hardest ethical decision you've had to make?",
+        "category": "ethical"
+      },
+      {
+        "id": 364,
+        "question": "What's something you're proud of that you rarely talk about?",
+        "category": "personal"
+      },
+      {
+        "id": 365,
+        "question": "What's the weirdest thing you've seen at someone else's house?",
+        "category": "funny"
+      },
+      {
+        "id": 366,
+        "question": "What's an unpopular opinion you hold?",
+        "category": "controversial"
+      },
+      {
+        "id": 367,
+        "question": "What's a skill you've tried to learn but utterly failed at?",
+        "category": "funny"
+      },
+      {
+        "id": 368,
+        "question": "What's something you've accidentally broken?",
+        "category": "confession"
+      },
+      {
+        "id": 369,
+        "question": "What's a time when you were completely out of your element?",
+        "category": "uncomfortable"
+      },
+      {
+        "id": 370,
+        "question": "What's the strangest thing you've witnessed on public transportation?",
+        "category": "weird"
+      },
+      {
+        "id": 371,
+        "question": "What's something you've done on autopilot that was completely inappropriate for the situation?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 372,
+        "question": "What's a weird thing that makes you anxious?",
+        "category": "psychological"
+      },
+      {
+        "id": 373,
+        "question": "What's the most painful emotional experience of your life?",
+        "category": "emotional"
+      },
+      {
+        "id": 374,
+        "question": "What's something you're curious about but too scared to try?",
+        "category": "personal"
+      },
+      {
+        "id": 375,
+        "question": "What's a time you displayed poor judgment?",
+        "category": "confession"
+      },
+      {
+        "id": 376,
+        "question": "What's something you know you're doing wrong but keep doing anyway?",
+        "category": "habits"
+      },
+      {
+        "id": 377,
+        "question": "What's a strange obsession you had as a child?",
+        "category": "childhood"
+      },
+      {
+        "id": 378,
+        "question": "What's the rudest thing a stranger has ever said to you?",
+        "category": "social"
+      },
+      {
+        "id": 379,
+        "question": "What's something you tried once and immediately regretted?",
+        "category": "confession"
+      },
+      {
+        "id": 380,
+        "question": "What's the most unusual place you've fallen asleep?",
+        "category": "funny"
+      },
+      {
+        "id": 381,
+        "question": "What's something you've done that was totally out of character?",
+        "category": "personal"
+      },
+      {
+        "id": 382,
+        "question": "What's the most physically uncomfortable situation you've been in?",
+        "category": "physical"
+      },
+      {
+        "id": 383,
+        "question": "What's a weird superstition you have?",
+        "category": "weird"
+      },
+      {
+        "id": 384,
+        "question": "What's the most embarrassing thing you've done in front of someone you were trying to impress?",
+        "category": "embarrassing"
+      },
+      {
+        "id": 385,
+        "question": "What's a time when your body failed you at the worst moment?",
+        "category": "physical"
+      },
+      {
+        "id": 386,
+        "question": "What's your most unhealthy coping mechanism?",
+        "category": "psychological"
+      },
+      {
+        "id": 387,
+        "question": "What's the most unusual thing you've done to try to fit in?",
+        "category": "social"
+      },
+      {
+        "id": 388,
+        "question": "What's a dream you've given up on?",
+        "category": "deep"
+      },
+      {
+        "id": 389,
+        "question": "What's something you feel guilty for enjoying?",
+        "category": "personal"
+      }
+    ]}

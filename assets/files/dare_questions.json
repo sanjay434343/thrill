@@ -1,0 +1,1803 @@
+{
+    "dareQuestions": [
+      {
+        "id": 1,
+        "category": "funny",
+        "question": "Text your mom asking if she knows where to buy a hazmat suit without explaining why."
+      },
+      {
+        "id": 2,
+        "category": "physical",
+        "question": "Do 10 pushups right now while maintaining eye contact with someone in the room."
+      },
+      {
+        "id": 3,
+        "category": "mental",
+        "question": "Recite the alphabet backwards in under 20 seconds."
+      },
+      {
+        "id": 4,
+        "category": "social",
+        "question": "Post a childhood photo of yourself on social media with a dramatic backstory that's completely made up."
+      },
+      {
+        "id": 5,
+        "category": "funny",
+        "question": "Speak in an accent of the group's choosing for the next 10 minutes."
+      },
+      {
+        "id": 6,
+        "category": "thrilling",
+        "question": "Call a friend and tell them you've spotted their celebrity crush in your neighborhood."
+      },
+      {
+        "id": 7,
+        "category": "horror",
+        "question": "Turn off all the lights and tell a scary story using only a flashlight on your face."
+      },
+      {
+        "id": 8,
+        "category": "physical",
+        "question": "Do your best dance move right now for at least 30 seconds."
+      },
+      {
+        "id": 9,
+        "category": "mental",
+        "question": "Create a 30-second commercial for a ridiculous product the group invents."
+      },
+      {
+        "id": 10,
+        "category": "funny",
+        "question": "Put as many marshmallows (or grapes) in your mouth as possible and try to whistle."
+      },
+      {
+        "id": 11,
+        "category": "social",
+        "question": "Text the 7th contact in your phone and ask them for cooking advice on a dish that doesn't exist."
+      },
+      {
+        "id": 12,
+        "category": "thrilling",
+        "question": "Stand outside and howl at the moon for 30 seconds (day or night)."
+      },
+      {
+        "id": 13,
+        "category": "horror",
+        "question": "Go into another room alone and scream, then come back acting like nothing happened."
+      },
+      {
+        "id": 14,
+        "category": "physical",
+        "question": "Do a handstand against the wall or try for at least 15 seconds."
+      },
+      {
+        "id": 15,
+        "category": "mental",
+        "question": "Solve a math problem created by the group while standing on one foot."
+      },
+      {
+        "id": 16,
+        "category": "funny",
+        "question": "Wear your clothes backwards for the next 15 minutes."
+      },
+      {
+        "id": 17,
+        "category": "social",
+        "question": "Call a restaurant and ask if they serve a completely ridiculous dish with a straight face."
+      },
+      {
+        "id": 18,
+        "category": "thrilling",
+        "question": "Let someone else post a status update on your social media account."
+      },
+      {
+        "id": 19,
+        "category": "horror",
+        "question": "Listen to the most intense part of a horror movie soundtrack with your eyes closed for 1 minute."
+      },
+      {
+        "id": 20,
+        "category": "physical",
+        "question": "Do your best impression of a fitness instructor for 1 minute while everyone follows along."
+      },
+      {
+        "id": 21,
+        "category": "mental",
+        "question": "List 10 countries and their capitals in 30 seconds."
+      },
+      {
+        "id": 22,
+        "category": "funny",
+        "question": "Talk to a household object like it's your long-lost best friend for 1 minute."
+      },
+      {
+        "id": 23,
+        "category": "social",
+        "question": "Show everyone your most embarrassing photo on your phone."
+      },
+      {
+        "id": 24,
+        "category": "thrilling",
+        "question": "Let someone go through your browser history for 30 seconds."
+      },
+      {
+        "id": 25,
+        "category": "horror",
+        "question": "Watch the trailer of the scariest movie you've never seen and give a live reaction."
+      },
+      {
+        "id": 26,
+        "category": "physical",
+        "question": "Try to juggle three items of the group's choosing for 30 seconds."
+      },
+      {
+        "id": 27,
+        "category": "mental",
+        "question": "Make up a haiku about the person to your right on the spot."
+      },
+      {
+        "id": 28,
+        "category": "funny",
+        "question": "Attempt to do a cartwheel or somersault right now."
+      },
+      {
+        "id": 29,
+        "category": "social",
+        "question": "Send a voice message to a friend singing 'Happy Birthday' regardless of whether it's their birthday."
+      },
+      {
+        "id": 30,
+        "category": "thrilling",
+        "question": "Close your eyes and let someone feed you something from the fridge."
+      },
+      {
+        "id": 31,
+        "category": "horror",
+        "question": "Write a short, creepy message and leave it somewhere for someone to find later."
+      },
+      {
+        "id": 32,
+        "category": "physical",
+        "question": "Hold a plank position while answering trivia questions for 1 minute."
+      },
+      {
+        "id": 33,
+        "category": "mental",
+        "question": "Describe a movie plot in reverse, and have others guess the title."
+      },
+      {
+        "id": 34,
+        "category": "funny",
+        "question": "Do your best impression of a famous celebrity taking a selfie."
+      },
+      {
+        "id": 35,
+        "category": "social",
+        "question": "Send a text to a friend asking for urgent advice about a fictional pet llama problem."
+      },
+      {
+        "id": 36,
+        "category": "thrilling",
+        "question": "Let someone draw something on your face with washable marker."
+      },
+      {
+        "id": 37,
+        "category": "horror",
+        "question": "Hide somewhere in the room and jump out to scare the next person who walks by."
+      },
+      {
+        "id": 38,
+        "category": "physical",
+        "question": "Spin around 10 times and then try to walk in a straight line."
+      },
+      {
+        "id": 39,
+        "category": "mental",
+        "question": "Tell a story where each person adds one sentence, but your sentences must all rhyme."
+      },
+      {
+        "id": 40,
+        "category": "funny",
+        "question": "Put on a pair of sunglasses and dramatically narrate everyone's actions for 2 minutes."
+      },
+      {
+        "id": 41,
+        "category": "social",
+        "question": "Let the group look through your music playlists and play the most embarrassing song they find."
+      },
+      {
+        "id": 42,
+        "category": "thrilling",
+        "question": "Text your crush or an ex something the group decides (keep it appropriate)."
+      },
+      {
+        "id": 43,
+        "category": "horror",
+        "question": "Stand in front of a mirror in dim lighting and tell a ghost story about the room you're in."
+      },
+      {
+        "id": 44,
+        "category": "physical",
+        "question": "Try to touch your tongue to your nose while hopping on one foot."
+      },
+      {
+        "id": 45,
+        "category": "mental",
+        "question": "Translate a nursery rhyme into sophisticated academic language on the spot."
+      },
+      {
+        "id": 46,
+        "category": "funny",
+        "question": "Using only kitchen utensils, create and perform a 30-second musical number."
+      },
+      {
+        "id": 47,
+        "category": "social",
+        "question": "Let everyone scroll through your camera roll for 30 seconds."
+      },
+      {
+        "id": 48,
+        "category": "thrilling",
+        "question": "Put an ice cube down your shirt and leave it there until it melts completely."
+      },
+      {
+        "id": 49,
+        "category": "horror",
+        "question": "Blindfolded, touch various objects the group chooses and try to guess what they are."
+      },
+      {
+        "id": 50,
+        "category": "physical",
+        "question": "Do your best impression of an Olympic gymnast sticking a landing."
+      },
+      {
+        "id": 51,
+        "category": "mental",
+        "question": "Name 15 animals starting with the letter S in 30 seconds."
+      },
+      {
+        "id": 52,
+        "category": "funny",
+        "question": "Make up a rap about someone in the room on the spot."
+      },
+      {
+        "id": 53,
+        "category": "social",
+        "question": "Call a parent and tell them you're thinking about getting a tattoo of their face."
+      },
+      {
+        "id": 54,
+        "category": "thrilling",
+        "question": "Trade an article of clothing with the person opposite you until your next turn."
+      },
+      {
+        "id": 55,
+        "category": "horror",
+        "question": "Lie on the floor and have someone cover you with a sheet like a ghost for 1 minute."
+      },
+      {
+        "id": 56,
+        "category": "physical",
+        "question": "Balance a book on your head while walking across the room and back."
+      },
+      {
+        "id": 57,
+        "category": "mental",
+        "question": "Make up a fairy tale featuring at least three people in the room."
+      },
+      {
+        "id": 58,
+        "category": "funny",
+        "question": "Let the group mix a drink of non-alcoholic items from the kitchen, and you have to drink it."
+      },
+      {
+        "id": 59,
+        "category": "social",
+        "question": "Post 'I'm finally ready to share my big news...' on social media and don't post again for 4 hours."
+      },
+      {
+        "id": 60,
+        "category": "thrilling",
+        "question": "Let someone choose your profile picture for a social media account for the next 24 hours."
+      },
+      {
+        "id": 61,
+        "category": "horror",
+        "question": "Record yourself telling a scary story and send it to someone not in the room with no explanation."
+      },
+      {
+        "id": 62,
+        "category": "physical",
+        "question": "Do the worm (or attempt to) on the floor right now."
+      },
+      {
+        "id": 63,
+        "category": "mental",
+        "question": "Create a 30-second stand-up comedy routine about the room you're in."
+      },
+      {
+        "id": 64,
+        "category": "funny",
+        "question": "Draw a self-portrait with your non-dominant hand while looking at yourself in the camera."
+      },
+      {
+        "id": 65,
+        "category": "social",
+        "question": "Text the last person you spoke to on the phone and ask them to marry you."
+      },
+      {
+        "id": 66,
+        "category": "thrilling",
+        "question": "Go outside and try to convince a neighbor to join your made-up cult dedicated to office supplies."
+      },
+      {
+        "id": 67,
+        "category": "horror",
+        "question": "With lights off, tell everyone about your deepest, most irrational fear."
+      },
+      {
+        "id": 68,
+        "category": "physical",
+        "question": "Perform a TikTok dance the group chooses, even if you don't know it."
+      },
+      {
+        "id": 69,
+        "category": "mental",
+        "question": "Solve a riddle the group finds online within 90 seconds."
+      },
+      {
+        "id": 70,
+        "category": "funny",
+        "question": "Create a superhero persona based on your most embarrassing habit."
+      },
+      {
+        "id": 71,
+        "category": "social",
+        "question": "Send a voice message to a friend speaking in song lyrics only."
+      },
+      {
+        "id": 72,
+        "category": "thrilling",
+        "question": "Eat a spoonful of the spiciest condiment available in the house."
+      },
+      {
+        "id": 73,
+        "category": "horror",
+        "question": "Let the group pick a scary makeup look and wear it for the rest of the game."
+      },
+      {
+        "id": 74,
+        "category": "physical",
+        "question": "Demonstrate three yoga poses you've never tried before."
+      },
+      {
+        "id": 75,
+        "category": "mental",
+        "question": "Take a 'What animal are you?' quiz online and act like that animal for 5 minutes."
+      },
+      {
+        "id": 76,
+        "category": "funny",
+        "question": "Stuff your cheeks with snacks and try to whistle a recognizable tune."
+      },
+      {
+        "id": 77,
+        "category": "social",
+        "question": "Start a conversation with the person next to you pretending they're your long-lost royal relative."
+      },
+      {
+        "id": 78,
+        "category": "thrilling",
+        "question": "Do a trust fall with someone in the room."
+      },
+      {
+        "id": 79,
+        "category": "horror",
+        "question": "Let the group tie your hands together for the next 10 minutes."
+      },
+      {
+        "id": 80,
+        "category": "physical",
+        "question": "Show us your best moves for escaping a zombie horde."
+      },
+      {
+        "id": 81,
+        "category": "mental",
+        "question": "Debate with yourself on a controversial topic, taking both sides convincingly."
+      },
+      {
+        "id": 82,
+        "category": "funny",
+        "question": "Try to make a serious announcement while the person next to you tickles you."
+      },
+      {
+        "id": 83,
+        "category": "social",
+        "question": "Let everyone in the room choose one word, then incorporate all words into a dramatic monologue."
+      },
+      {
+        "id": 84,
+        "category": "thrilling",
+        "question": "Take a cold shower for 10 seconds (fully clothed is okay)."
+      },
+      {
+        "id": 85,
+        "category": "horror",
+        "question": "Let someone blindfold you and lead you around the house for 2 minutes."
+      },
+      {
+        "id": 86,
+        "category": "physical",
+        "question": "Limbo under a broomstick held by two people."
+      },
+      {
+        "id": 87,
+        "category": "mental",
+        "question": "Create a conspiracy theory connecting three random objects in the room."
+      },
+      {
+        "id": 88,
+        "category": "funny",
+        "question": "Attempt to moonwalk from one side of the room to the other."
+      },
+      {
+        "id": 89,
+        "category": "social",
+        "question": "Send the 11th person in your contacts list a selfie with a random filter."
+      },
+      {
+        "id": 90,
+        "category": "thrilling",
+        "question": "Let someone write a word on your forehead in washable marker."
+      },
+      {
+        "id": 91,
+        "category": "horror",
+        "question": "Allow someone to describe a horror movie scene, and you must act it out dramatically."
+      },
+      {
+        "id": 92,
+        "category": "physical",
+        "question": "Do your best breakdance move on the floor."
+      },
+      {
+        "id": 93,
+        "category": "mental",
+        "question": "Take a random object and deliver a 1-minute sales pitch for it like you're on Shark Tank."
+      },
+      {
+        "id": 94,
+        "category": "funny",
+        "question": "Pretend to be possessed by the spirit of a famous celebrity for 2 minutes."
+      },
+      {
+        "id": 95,
+        "category": "social",
+        "question": "Post a status asking for recommendations for a completely ridiculous activity."
+      },
+      {
+        "id": 96,
+        "category": "thrilling",
+        "question": "Lie on your back and let someone drop water from a spoon into your mouth from a height."
+      },
+      {
+        "id": 97,
+        "category": "horror",
+        "question": "Go into a dark bathroom, turn around three times, and say 'Bloody Mary' while looking in the mirror."
+      },
+      {
+        "id": 98,
+        "category": "physical",
+        "question": "Try to do the splits, or get as close as you safely can."
+      },
+      {
+        "id": 99,
+        "category": "mental",
+        "question": "Create a poem using only words that start with the same letter the group chooses."
+      },
+      {
+        "id": 100,
+        "category": "funny",
+        "question": "Give a 1-minute lecture on a topic you know nothing about with complete confidence."
+      },
+      {
+        "id": 101,
+        "category": "social",
+        "question": "Show the last three people you texted and what the messages were about."
+      },
+      {
+        "id": 102,
+        "category": "thrilling",
+        "question": "Go outside and ask a stranger to take a selfie with you."
+      },
+      {
+        "id": 103,
+        "category": "horror",
+        "question": "Let someone describe their recurring nightmare and act it out."
+      },
+      {
+        "id": 104,
+        "category": "physical",
+        "question": "Hold a squat position while answering personal questions for 1 minute."
+      },
+      {
+        "id": 105,
+        "category": "mental",
+        "question": "Play a memory game: someone lists 10 items, and you have to recall them all in order."
+      },
+      {
+        "id": 106,
+        "category": "funny",
+        "question": "Make up a song about the person to your left and perform it enthusiastically."
+      },
+      {
+        "id": 107,
+        "category": "social",
+        "question": "Call a local business and ask if they deliver something they obviously don't."
+      },
+      {
+        "id": 108,
+        "category": "thrilling",
+        "question": "Let someone else post your next story on Instagram."
+      },
+      {
+        "id": 109,
+        "category": "horror",
+        "question": "Let the group create a spooky new hairstyle for you that you must wear for the next hour."
+      },
+      {
+        "id": 110,
+        "category": "physical",
+        "question": "Race someone across the room while crawling backwards."
+      },
+      {
+        "id": 111,
+        "category": "mental",
+        "question": "Try to draw the United States map from memory in 60 seconds."
+      },
+      {
+        "id": 112,
+        "category": "funny",
+        "question": "Put on a blindfold and try to apply lipstick or chapstick perfectly."
+      },
+      {
+        "id": 113,
+        "category": "social",
+        "question": "Start speaking in the third person about yourself for the next 15 minutes."
+      },
+      {
+        "id": 114,
+        "category": "thrilling",
+        "question": "Give your phone to someone else and let them send a text to anyone they choose."
+      },
+      {
+        "id": 115,
+        "category": "horror",
+        "question": "Create an alibi for a fictional murder that happened in this room 5 minutes ago."
+      },
+      {
+        "id": 116,
+        "category": "physical",
+        "question": "Do a crab walk across the entire room."
+      },
+      {
+        "id": 117,
+        "category": "mental",
+        "question": "Try to list 20 four-letter words in 30 seconds."
+      },
+      {
+        "id": 118,
+        "category": "funny",
+        "question": "Try to tell a joke while someone tickles you."
+      },
+      {
+        "id": 119,
+        "category": "social",
+        "question": "Send a mysterious emoji sequence to a friend with no explanation."
+      },
+      {
+        "id": 120,
+        "category": "thrilling",
+        "question": "Let the group choose a temporary tattoo location and design for you."
+      },
+      {
+        "id": 121,
+        "category": "horror",
+        "question": "Let someone whisper the creepiest thing they can think of into your ear."
+      },
+      {
+        "id": 122,
+        "category": "physical",
+        "question": "Hold a wall sit for as long as possible while singing your favorite song."
+      },
+      {
+        "id": 123,
+        "category": "mental",
+        "question": "Estimate how many jelly beans would fit in the room you're in and explain your math."
+      },
+      {
+        "id": 124,
+        "category": "funny",
+        "question": "Do a dramatic recreation of your most embarrassing moment."
+      },
+      {
+        "id": 125,
+        "category": "social",
+        "question": "Let the group create a new dating profile bio for you that you have to use for a week."
+      },
+      {
+        "id": 126,
+        "category": "thrilling",
+        "question": "Go to the kitchen and take a small bite of the spiciest thing you can find."
+      },
+      {
+        "id": 127,
+        "category": "horror",
+        "question": "Let someone draw what they think your greatest fear looks like on paper."
+      },
+      {
+        "id": 128,
+        "category": "physical",
+        "question": "Do as many jumping jacks as you can in 30 seconds."
+      },
+      {
+        "id": 129,
+        "category": "mental",
+        "question": "Create a fictional backstory for a random object in the room as if it were evidence in a crime."
+      },
+      {
+        "id": 130,
+        "category": "funny",
+        "question": "Speak in rhymes for the next 5 minutes."
+      },
+      {
+        "id": 131,
+        "category": "social",
+        "question": "Call your most recent ex or crush and ask them for their favorite recipe."
+      },
+      {
+        "id": 132,
+        "category": "thrilling",
+        "question": "Run around the outside of your house or building once."
+      },
+      {
+        "id": 133,
+        "category": "horror",
+        "question": "Let everyone in the room write one word on a piece of paper, then create a horror story using all the words."
+      },
+      {
+        "id": 134,
+        "category": "physical",
+        "question": "Do the chicken dance for 1 minute with total commitment."
+      },
+      {
+        "id": 135,
+        "category": "mental",
+        "question": "Try to name a country for every letter of the alphabet in 2 minutes."
+      },
+      {
+        "id": 136,
+        "category": "funny",
+        "question": "Let someone else style your hair however they want."
+      },
+      {
+        "id": 137,
+        "category": "social",
+        "question": "Send the last photo you took to your family group chat without context."
+      },
+      {
+        "id": 138,
+        "category": "thrilling",
+        "question": "Swap clothes with the person opposite you for the next round."
+      },
+      {
+        "id": 139,
+        "category": "horror",
+        "question": "Let the group come up with a terrifying creature, then you must act like you've just seen it outside the window."
+      },
+      {
+        "id": 140,
+        "category": "physical",
+        "question": "Hold a plank position while reciting the pledge of allegiance or national anthem."
+      },
+      {
+        "id": 141,
+        "category": "mental",
+        "question": "Create an alternate universe where one everyday object doesn't exist and explain how society adapted."
+      },
+      {
+        "id": 142,
+        "category": "funny",
+        "question": "Try to make a sandwich using your feet only."
+      },
+      {
+        "id": 143,
+        "category": "social",
+        "question": "For the next 10 minutes, start every sentence with the last letter of the previous speaker's sentence."
+      },
+      {
+        "id": 144,
+        "category": "thrilling",
+        "question": "Allow someone to put an ice cube down your back."
+      },
+      {
+        "id": 145,
+        "category": "horror",
+        "question": "Act out a scene where you're the sole survivor in a zombie apocalypse."
+      },
+      {
+        "id": 146,
+        "category": "physical",
+        "question": "Take off your socks using only your feet."
+      },
+      {
+        "id": 147,
+        "category": "mental",
+        "question": "Make up three fake 'facts' about yourself that sound believable but aren't true."
+      },
+      {
+        "id": 148,
+        "category": "funny",
+        "question": "Show your best dance moves to a song the group chooses."
+      },
+      {
+        "id": 149,
+        "category": "social",
+        "question": "Let everyone check the last three photos saved to your camera roll."
+      },
+      {
+        "id": 150,
+        "category": "thrilling",
+        "question": "Let someone feed you three mystery food items while blindfolded."
+      },
+      {
+        "id": 151,
+        "category": "horror",
+        "question": "Tell the group about a recurring nightmare you've had."
+      },
+      {
+        "id": 152,
+        "category": "physical",
+        "question": "Demonstrate how you would escape if your hands were tied behind your back."
+      },
+      {
+        "id": 153,
+        "category": "mental",
+        "question": "List all 50 US states in alphabetical order (or as many as you can in 2 minutes)."
+      },
+      {
+        "id": 154,
+        "category": "funny",
+        "question": "Let the group put makeup on you while you're blindfolded."
+      },
+      {
+        "id": 155,
+        "category": "social",
+        "question": "Go outside and sing 'Happy Birthday' loudly to someone who isn't there."
+      },
+      {
+        "id": 156,
+        "category": "thrilling",
+        "question": "Let the group choose an embarrassing profile picture for your social media for 24 hours."
+      },
+      {
+        "id": 157,
+        "category": "horror",
+        "question": "Stay in a dark closet or bathroom alone for 3 minutes."
+      },
+      {
+        "id": 158,
+        "category": "physical",
+        "question": "Try to do the macarena while standing on one foot."
+      },
+      {
+        "id": 159,
+        "category": "mental",
+        "question": "Create an alternate ending to your favorite movie on the spot."
+      },
+      {
+        "id": 160,
+        "category": "funny",
+        "question": "Try to lick your elbow for 30 seconds."
+      },
+      {
+        "id": 161,
+        "category": "social",
+        "question": "Text your most recent match on a dating app (if applicable) with a cheesy pickup line the group chooses."
+      },
+      {
+        "id": 162,
+        "category": "thrilling",
+        "question": "Let someone else send an email from your account (nothing harmful)."
+      },
+      {
+        "id": 163,
+        "category": "horror",
+        "question": "Let the group come up with a scary story and you have to act out the main character's reaction."
+      },
+      {
+        "id": 164,
+        "category": "physical",
+        "question": "Race someone while walking backward across the room."
+      },
+      {
+        "id": 165,
+        "category": "mental",
+        "question": "Count backward from 100 by 7s as quickly as you can without making a mistake."
+      },
+      {
+        "id": 166,
+        "category": "funny",
+        "question": "Try to burp the alphabet as far as you can get."
+      },
+      {
+        "id": 167,
+        "category": "social",
+        "question": "Call someone in your contacts and speak only in movie quotes for the entire conversation."
+      },
+      {
+        "id": 168,
+        "category": "thrilling",
+        "question": "Let everyone in the group add one ingredient to a drink that you have to consume."
+      },
+      {
+        "id": 169,
+        "category": "horror",
+        "question": "Let someone tie your hands together and try to escape within 2 minutes."
+      },
+      {
+        "id": 170,
+        "category": "physical",
+        "question": "Do 20 sit-ups while answering personal questions."
+      },
+      {
+        "id": 171,
+        "category": "mental",
+        "question": "Pick two random objects in the room and convince everyone why they should be used together as a new invention."
+      },
+      {
+        "id": 172,
+        "category": "funny",
+        "question": "Pretend you're an auctioneer and auction off random items in the room for 1 minute."
+      },
+      {
+        "id": 173,
+        "category": "social",
+        "question": "Let the group come up with a new nickname for you that everyone must use for the rest of the game."
+      },
+      {
+        "id": 174,
+        "category": "thrilling",
+        "question": "Ask a neighbor for a strange ingredient you don't need."
+      },
+      {
+        "id": 175,
+        "category": "horror",
+        "question": "Let someone cover you with a sheet and pretend to be a ghost haunting the room."
+      },
+      {
+        "id": 176,
+        "category": "physical",
+        "question": "Do your best imitation of an Olympic figure skater's routine."
+      },
+      {
+        "id": 177,
+        "category": "mental",
+        "question": "Describe the most complex movie plot you know in under 30 seconds."
+      },
+      {
+        "id": 178,
+        "category": "funny",
+        "question": "Let everyone in the room add one article of clothing to your outfit that you must wear for the next hour."
+      },
+      {
+        "id": 179,
+        "category": "social",
+        "question": "Create and perform a jingle for the person to your right."
+      },
+      {
+        "id": 180,
+        "category": "thrilling",
+        "question": "Let someone spray you with cold water unexpectedly in the next 10 minutes."
+      },
+      {
+        "id": 181,
+        "category": "horror",
+        "question": "Tell an improvised two-minute ghost story that takes place in this building."
+      },
+      {
+        "id": 182,
+        "category": "physical",
+        "question": "Do 10 burpees right now."
+      },
+      {
+        "id": 183,
+        "category": "mental",
+        "question": "Create a backstory for why everyone in the room is stranded on a desert island together."
+      },
+      {
+        "id": 184,
+        "category": "funny",
+        "question": "Try to wrap yourself completely in toilet paper in 60 seconds."
+      },
+      {
+        "id": 185,
+        "category": "social",
+        "question": "Let everyone go through your social media and pick a post to like from 3+ years ago."
+      },
+      {
+        "id": 186,
+        "category": "thrilling",
+        "question": "Let someone pour a small amount of cold water down your neck."
+      },
+      {
+        "id": 187,
+        "category": "horror",
+        "question": "Turn off all the lights and tell a story about why this house/building is haunted."
+      },
+      {
+        "id": 188,
+        "category": "physical",
+        "question": "Attempt to juggle three items the group chooses for 30 seconds."
+      },
+      {
+        "id": 189,
+        "category": "mental",
+        "question": "Make up a short story using only song titles you know."
+      },
+      {
+        "id": 190,
+        "category": "funny",
+        "question": "Put on as many layers of clothing as possible in 60 seconds."
+      },
+      {
+        "id": 191,
+        "category": "social",
+        "question": "Call a family member and tell them you've decided to join the circus."
+      },
+      {
+        "id": 192,
+        "category": "thrilling",
+        "question": "Go outside and yell your deepest darkest secret (that you're comfortable sharing)."
+      },
+      {
+        "id": 193,
+        "category": "horror",
+        "question": "Put on a horror movie for 2 minutes and react dramatically to everything."
+      },
+      {
+        "id": 194,
+        "category": "physical",
+        "question": "Do 20 jumping jacks while singing your favorite song."
+      },
+      {
+        "id": 195,
+        "category": "mental",
+        "question": "Say the 50 states (or as many as you can) in alphabetical order in under 2 minutes."
+      },
+      {
+        "id": 196,
+        "category": "funny",
+        "question": "Speak in a made-up language for the next 3 minutes, and try to get someone to understand you."
+      },
+      {
+        "id": 197,
+        "category": "social",
+        "question": "Post a status asking for recommendations for your upcoming fictional wedding to a celebrity."
+      },
+      {
+        "id": 198,
+        "category": "thrilling",
+        "question": "Let the group choose something for you to wear on your head for the next 30 minutes."
+      },
+      {
+        "id": 199,
+        "category": "horror",
+        "question": "Let someone draw a fake scar on your face with makeup."
+      },
+      {
+        "id": 200,
+        "category": "physical",
+        "question": "Try to do a cartwheel or somersault (if it's safe to do so)."
+      },
+      {
+        "id": 201,
+        "category": "mental",
+        "question": "Make up a conspiracy theory explaining why we never see babies and dogs in the same room."
+      },
+      {
+        "id": 202,
+        "category": "funny",
+        "question": "Let someone put makeup on you using their non-dominant hand."
+      },
+      {
+        "id": 203,
+        "category": "social",
+        "question": "Pretend to be best friends with someone in the room you don't know well for the next 10 minutes."
+      },
+      {
+        "id": 204,
+        "category": "thrilling",
+        "question": "Let someone pluck one of your eyebrow hairs."
+      },
+      {
+        "id": 205,
+        "category": "horror",
+        "question": "Sit alone in a dark bathroom with just a flashlight for 3 minutes."
+      },
+      {
+        "id": 206,
+        "category": "physical",
+        "question": "Do your best impression of a runway model walking down a catwalk."
+      },
+      {
+        "id": 207,
+        "category": "mental",
+        "question": "Write a short poem about someone in the room in 60 seconds."
+      },
+      {
+        "id": 208,
+        "category": "funny",
+        "question": "Try to make a mustache out of something you can find in the room."
+      },
+      {
+        "id": 209,
+        "category": "social",
+        "question": "Create a secret handshake with a stranger in the room and perform it."
+      },
+      {
+        "id": 210,
+        "category": "thrilling",
+        "question": "Let someone choose a temporary tattoo to put on you in a visible location."
+      },
+      {
+        "id": 211,
+        "category": "horror",
+        "question": "Listen to a one-minute clip of a horror movie soundtrack with your eyes closed."
+      },
+      {
+        "id": 212,
+        "category": "physical",
+        "question": "Do a duck walk across the entire room."
+      },
+      {
+        "id": 213,
+        "category": "mental",
+        "question": "Tell a story where each sentence must start with the next letter of the alphabet."
+      },
+      {
+        "id": 214,
+        "category": "funny",
+        "question": "Let someone give you a makeover using only items found in the kitchen."
+      },
+      {
+        "id": 215,
+        "category": "social",
+        "question": "Send a text to your crush or a friend saying 'We need to talk' and ignore their response for 10 minutes."
+      },
+      {
+        "id": 216,
+        "category": "thrilling",
+        "question": "Take a bite of a raw onion or garlic clove."
+      },
+      {
+        "id": 217,
+        "category": "horror",
+        "question": "Let the group create a creepy doll using items in the room that must stay next to you."
+      },
+      {
+        "id": 218,
+        "category": "physical",
+        "question": "Attempt to do 5 push-ups with someone sitting on your back (if safe)."
+      },
+      {
+        "id": 219,
+        "category": "mental",
+        "question": "List 10 different uses for a paperclip that aren't its intended purpose."
+      },
+      {
+        "id": 220,
+        "category": "funny",
+        "question": "Act out a dramatic soap opera scene with someone else involving a shocking betrayal."
+      },
+      {
+        "id": 221,
+        "category": "social",
+        "question": "Swap phones with the person next to you for 5 minutes."
+      },
+      {
+        "id": 222,
+        "category": "thrilling",
+        "question": "Put an ice cube in your mouth and let it melt completely."
+      },
+      {
+        "id": 223,
+        "category": "horror",
+        "question": "Create a creepy sound effect and let everyone close their eyes while you perform it from different parts of the room."
+      },
+      {
+        "id": 224,
+        "category": "physical",
+        "question": "Hold a yoga pose of the group's choosing for 1 minute."
+      },
+      {
+        "id": 225,
+        "category": "mental",
+        "question": "Rank everyone in the room from most to least likely to survive a zombie apocalypse and explain why."
+      },
+      {
+        "id": 226,
+        "category": "funny",
+        "question": "Let everyone watch as you show your oldest selfie on your phone."
+      },
+      {
+        "id": 227,
+        "category": "social",
+        "question": "Text your mom asking what she thinks about you getting a face tattoo."
+      },
+      {
+        "id": 228,
+        "category": "thrilling",
+        "question": "Let someone write something on your arm with a marker."
+      },
+      {
+        "id": 229,
+        "category": "horror",
+        "question": "Have someone secretly write a creepy note and hide it in your pocket to find later."
+      },
+      {
+        "id": 230,
+        "category": "physical",
+        "question": "Try to touch your nose with your tongue while doing squats."
+      },
+      {
+        "id": 231,
+        "category": "mental",
+        "question": "Name 5 countries and their capitals in 30 seconds."
+      },
+      {
+        "id": 232,
+        "category": "funny",
+        "question": "Try to imitate 3 different animal sounds and have people guess them."
+      },
+      {
+        "id": 233,
+        "category": "social",
+        "question": "Let the group decide on an embarrassing auto-correct mistake you have to 'accidentally' send to someone."
+      },
+      {
+        "id": 234,
+        "category": "thrilling",
+        "question": "Run around the house/building outside barefoot (weather permitting)."
+      },
+      {
+        "id": 235,
+        "category": "horror",
+        "question": "Close your eyes while each person in the room touches your face with something creepy (but safe)."
+      },
+      {
+        "id": 236,
+        "category": "physical",
+        "question": "Walk across the room with a book balanced on your head without dropping it."
+      },
+      {
+        "id": 237,
+        "category": "mental",
+        "question": "Take any object in the room and pitch it like it's a revolutionary new product on Shark Tank."
+      },
+      {
+        "id": 238,
+        "category": "funny",
+        "question": "Ask Siri/Google/Alexa an embarrassing question in front of everyone."
+      },
+      {
+        "id": 239,
+        "category": "social",
+        "question": "Let the group reply to one of your text conversations."
+      },
+      {
+        "id": 240,
+        "category": "thrilling",
+        "question": "Let someone drop something unexpected down the back of your shirt."
+      },
+      {
+        "id": 241,
+        "category": "horror",
+        "question": "Lie on the floor and let everyone surround you and stare at you for 1 minute."
+      },
+      {
+        "id": 242,
+        "category": "physical",
+        "question": "Arm wrestle with the strongest-looking person in the room."
+      },
+      {
+        "id": 243,
+        "category": "mental",
+        "question": "Come up with a 30-second advertisement for the most boring object in the room."
+      },
+      {
+        "id": 244,
+        "category": "funny",
+        "question": "Go outside and try to have a conversation with a plant or tree for 30 seconds."
+      },
+      {
+        "id": 245,
+        "category": "social",
+        "question": "Let the group choose a ridiculous hashtag for you to use on all social media posts for the next 24 hours."
+      },
+      {
+        "id": 246,
+        "category": "thrilling",
+        "question": "Let someone throw 5 ice cubes down your shirt."
+      },
+      {
+        "id": 247,
+        "category": "horror",
+        "question": "Let someone blindfold you and feed you something without telling you what it is."
+      },
+      {
+        "id": 248,
+        "category": "physical",
+        "question": "Demonstrate how you would sneak into your own house if you lost your keys."
+      },
+      {
+        "id": 249,
+        "category": "mental",
+        "question": "Make up and perform a commercial jingle for your least favorite household chore."
+      },
+      {
+        "id": 250,
+        "category": "funny",
+        "question": "Let someone style your hair with only kitchen utensils."
+      },
+      {
+        "id": 251,
+        "category": "social",
+        "question": "Call a store and ask if they have an obviously fictional product in stock."
+      },
+      {
+        "id": 252,
+        "category": "thrilling",
+        "question": "Stand outside and howl at the moon (or sky) for 30 seconds."
+      },
+      {
+        "id": 253,
+        "category": "horror",
+        "question": "Let someone put a blindfold on you and lead you around the house for 2 minutes."
+      },
+      {
+        "id": 254,
+        "category": "physical",
+        "question": "Attempt to do a handstand against a wall (if safe)."
+      },
+      {
+        "id": 255,
+        "category": "mental",
+        "question": "Create a two-minute speech about why unicorns should be the national animal."
+      },
+      {
+        "id": 256,
+        "category": "funny",
+        "question": "Let the group mix together a drink using at least 4 condiments that you must take a sip of."
+      },
+      {
+        "id": 257,
+        "category": "social",
+        "question": "Text your crush or a friend asking them to rate your personality on a scale of 1-10."
+      },
+      {
+        "id": 258,
+        "category": "thrilling",
+        "question": "Go outside and sing the national anthem at the top of your lungs."
+      },
+      {
+        "id": 259,
+        "category": "horror",
+        "question": "Lie on the floor and let people put light objects on you while you pretend to be a corpse."
+      },
+      {
+        "id": 260,
+        "category": "physical",
+        "question": "Try to lick your elbow while hopping on one foot."
+      },
+      {
+        "id": 261,
+        "category": "mental",
+        "question": "Make up a new ending to your favorite movie that completely changes the message."
+      },
+      {
+        "id": 262,
+        "category": "funny",
+        "question": "Do your best impression of a YouTube makeup tutorial using imaginary makeup."
+      },
+      {
+        "id": 263,
+        "category": "social",
+        "question": "Let someone else choose your profile picture for social media for the next 48 hours."
+      },
+      {
+        "id": 264,
+        "category": "thrilling",
+        "question": "Take a cold shower for 15 seconds (fully clothed is fine)."
+      },
+      {
+        "id": 265,
+        "category": "horror",
+        "question": "Tell the group what you think would be the worst way to die."
+      },
+      {
+        "id": 266,
+        "category": "physical",
+        "question": "Do your best impression of a basketball/soccer/football player scoring the winning point."
+      },
+      {
+        "id": 267,
+        "category": "mental",
+        "question": "Create a believable conspiracy theory about something mundane in the room."
+      },
+      {
+        "id": 268,
+        "category": "funny",
+        "question": "Swap clothes with the person to your right for one round."
+      },
+      {
+        "id": 269,
+        "category": "social",
+        "question": "Create and perform a TikTok dance on the spot."
+      },
+      {
+        "id": 270,
+        "category": "thrilling",
+        "question": "Let the group hide one of your possessions somewhere in the house/building that you'll have to find later."
+      },
+      {
+        "id": 271,
+        "category": "horror",
+        "question": "Go to the bathroom mirror, turn off the lights, and say 'Bloody Mary' three times."
+      },
+      {
+        "id": 272,
+        "category": "physical",
+        "question": "Try to do a split (as far as you can safely go)."
+      },
+      {
+        "id": 273,
+        "category": "mental",
+        "question": "Create three fake headlines that would completely change the world if they were true."
+      },
+      {
+        "id": 274,
+        "category": "funny",
+        "question": "Put five pieces of ice in your pants and keep them there until they melt."
+      },
+      {
+        "id": 275,
+        "category": "social",
+        "question": "Send a nonsensical but urgent-sounding voice message to someone not in the room."
+      },
+      {
+        "id": 276,
+        "category": "thrilling",
+        "question": "Let someone else look through your browser history for 1 minute."
+      },
+      {
+        "id": 277,
+        "category": "horror",
+        "question": "Share your most irrational fear and let the group act it out."
+      },
+      {
+        "id": 278,
+        "category": "physical",
+        "question": "Show everyone your best dance move and have them rate it."
+      },
+      {
+        "id": 279,
+        "category": "mental",
+        "question": "Come up with a believable lie about yourself and see if the group can spot it."
+      },
+      {
+        "id": 280,
+        "category": "funny",
+        "question": "Try to draw a perfect circle freehand while the group judges it."
+      },
+      {
+        "id": 281,
+        "category": "social",
+        "question": "Let the group look through your search history and pick one thing to ask you about."
+      },
+      {
+        "id": 282,
+        "category": "thrilling",
+        "question": "Let someone spank you with a spatula or wooden spoon."
+      },
+      {
+        "id": 283,
+        "category": "horror",
+        "question": "Go into the bathroom alone and tell a scary story to your reflection."
+      },
+      {
+        "id": 284,
+        "category": "physical",
+        "question": "Do 15 squats while balancing a book on your head."
+      },
+      {
+        "id": 285,
+        "category": "mental",
+        "question": "Try to solve a basic math problem while someone tries to distract you."
+      },
+      {
+        "id": 286,
+        "category": "funny",
+        "question": "Let someone pour a small amount of cold water over your head."
+      },
+      {
+        "id": 287,
+        "category": "social",
+        "question": "Show everyone your camera roll and let them choose a photo to post on your social media."
+      },
+      {
+        "id": 288,
+        "category": "thrilling",
+        "question": "Walk up to a window and scream as loud as you can."
+      },
+      {
+        "id": 289,
+        "category": "horror",
+        "question": "Let everyone write one scary word, then create a horror story using all the words."
+      },
+      {
+        "id": 290,
+        "category": "physical",
+        "question": "Do a crab walk from one side of the room to the other while balancing something on your stomach."
+      },
+      {
+        "id": 291,
+        "category": "mental",
+        "question": "Translate a nursery rhyme into sophisticated academic language."
+      },
+      {
+        "id": 292,
+        "category": "funny",
+        "question": "Pretend to be a news anchor reporting on the ridiculous activities happening in the room."
+      },
+      {
+        "id": 293,
+        "category": "social",
+        "question": "Show the most embarrassing app on your phone and the last time you used it."
+      },
+      {
+        "id": 294,
+        "category": "thrilling",
+        "question": "Eat a spoonful of hot sauce or spicy condiment."
+      },
+      {
+        "id": 295,
+        "category": "horror",
+        "question": "Let the group create a horror movie scenario starring you that you must act out."
+      },
+      {
+        "id": 296,
+        "category": "physical",
+        "question": "Demonstrate how you would escape if you were tied to a chair."
+      },
+      {
+        "id": 297,
+        "category": "mental",
+        "question": "Try to explain a complex topic (like quantum physics) in simple terms a 5-year-old could understand."
+      },
+      {
+        "id": 298,
+        "category": "funny",
+        "question": "Let someone use your face as a canvas for a one-minute drawing with washable marker."
+      },
+      {
+        "id": 299,
+        "category": "social",
+        "question": "Act out meeting your favorite celebrity and having them be extremely disappointed in you."
+      },
+      {
+        "id": 300,
+        "category": "thrilling",
+        "question": "Let someone pour a small amount of a condiment of their choice on your hand that you have to lick off."
+      },
+      {
+        "id": 301,
+        "category": "horror",
+        "question": "Stand in front of a mirror in dim lighting and tell a story about your own ghost."
+      },
+      {
+        "id": 302,
+        "category": "physical",
+        "question": "Try to do a handstand or wall stand for at least 10 seconds."
+      },
+      {
+        "id": 303,
+        "category": "mental",
+        "question": "Create a short poem where every word starts with the same letter."
+      },
+      {
+        "id": 304,
+        "category": "funny",
+        "question": "Smell everyone's feet and rank them from best to worst."
+      },
+      {
+        "id": 305,
+        "category": "social",
+        "question": "Let someone go through your text messages for 30 seconds."
+      },
+      {
+        "id": 306,
+        "category": "thrilling",
+        "question": "Let the group choose a song for you to perform dramatically in public (or out a window)."
+      },
+      {
+        "id": 307,
+        "category": "horror",
+        "question": "Choose one person who must whisper something disturbing in your ear that makes you visibly uncomfortable."
+      },
+      {
+        "id": 308,
+        "category": "physical",
+        "question": "Do a leap frog over someone (if safe and they consent)."
+      },
+      {
+        "id": 309,
+        "category": "mental",
+        "question": "Create a 30-second commercial for the most useless product you can think of."
+      },
+      {
+        "id": 310,
+        "category": "funny",
+        "question": "Let someone feed you a spoonful of something while blindfolded."
+      },
+      {
+        "id": 311,
+        "category": "social",
+        "question": "Choose someone in the room and give them a dramatic makeover with whatever's available."
+      },
+      {
+        "id": 312,
+        "category": "thrilling",
+        "question": "Hold an ice cube in your hand until it completely melts."
+      },
+      {
+        "id": 313,
+        "category": "horror",
+        "question": "Find the creepiest photo on your phone and explain the backstory."
+      },
+      {
+        "id": 314,
+        "category": "physical",
+        "question": "Do a barrel roll across the room (if there's space and it's safe)."
+      },
+      {
+        "id": 315,
+        "category": "mental",
+        "question": "Recite the Pledge of Allegiance or national anthem backwards."
+      },
+      {
+        "id": 316,
+        "category": "funny",
+        "question": "Let the group choose three random items for you to use in a one-minute stand-up comedy routine."
+      },
+      {
+        "id": 317,
+        "category": "social",
+        "question": "Text your partner/crush/friend asking their opinion on you getting a face tattoo."
+      },
+      {
+        "id": 318,
+        "category": "thrilling",
+        "question": "Let someone choose a contact on your phone for you to prank call."
+      },
+      {
+        "id": 319,
+        "category": "horror",
+        "question": "Create a 30-second horror movie trailer starring people in the room."
+      },
+      {
+        "id": 320,
+        "category": "physical",
+        "question": "Do your best martial arts moves while making appropriate sound effects."
+      },
+      {
+        "id": 321,
+        "category": "mental",
+        "question": "Improvise a one-minute speech about why aliens definitely exist."
+      },
+      {
+        "id": 322,
+        "category": "funny",
+        "question": "Let the group choose a filter and take an embarrassing selfie that you must keep as your profile picture for 24 hours."
+      },
+      {
+        "id": 323,
+        "category": "social",
+        "question": "Tell everyone your most embarrassing childhood nickname and the story behind it."
+      },
+      {
+        "id": 324,
+        "category": "thrilling",
+        "question": "Eat a tablespoon of the hottest sauce available."
+      },
+      {
+        "id": 325,
+        "category": "horror",
+        "question": "Let everyone in the room write a creepy sentence that you have to incorporate into a story."
+      },
+      {
+        "id": 326,
+        "category": "physical",
+        "question": "Try to do the worm dance move across the floor."
+      },
+      {
+        "id": 327,
+        "category": "mental",
+        "question": "Without using your phone, try to draw a map of your country from memory with major cities labeled."
+      },
+      {
+        "id": 328,
+        "category": "funny",
+        "question": "Attempt to apply lipstick or lip balm without using your hands."
+      },
+      {
+        "id": 329,
+        "category": "social",
+        "question": "Let the group choose your dating app bio that you must use for the next week."
+      },
+      {
+        "id": 330,
+        "category": "thrilling",
+        "question": "Eat a raw garlic clove or small piece of onion."
+      },
+      {
+        "id": 331,
+        "category": "horror",
+        "question": "Let someone write a spooky message on your back with their finger and guess what it says."
+      },
+      {
+        "id": 332,
+        "category": "physical",
+        "question": "Try to jump and touch the ceiling (or get as close as possible)."
+      },
+      {
+        "id": 333,
+        "category": "mental",
+        "question": "Try to list all of Santa's reindeer in 20 seconds."
+      },
+      {
+        "id": 334,
+        "category": "funny",
+        "question": "Put an ice cube in your underwear and let it melt completely."
+      },
+      {
+        "id": 335,
+        "category": "social",
+        "question": "Let everyone vote on a new hairstyle you have to wear for the rest of the game."
+      },
+      {
+        "id": 336,
+        "category": "thrilling",
+        "question": "Blindfolded, let someone feed you something unexpected from the fridge."
+      },
+      {
+        "id": 337,
+        "category": "horror",
+        "question": "Let everyone leave the room, turn off the lights, and stay alone for 3 minutes."
+      },
+      {
+        "id": 338,
+        "category": "physical",
+        "question": "Do your best impression of a ballet dancer for 30 seconds."
+      },
+      {
+        "id": 339,
+        "category": "mental",
+        "question": "Make up an alternate history where dinosaurs never went extinct and explain how society would be different."
+      },
+      {
+        "id": 340,
+        "category": "funny",
+        "question": "Put your socks on your hands and try to make a sandwich."
+      },
+      {
+        "id": 341,
+        "category": "social",
+        "question": "Let the group compose a text message to send to your mom or best friend."
+      },
+      {
+        "id": 342,
+        "category": "thrilling",
+        "question": "Let someone pour cold water on your feet."
+      },
+      {
+        "id": 343,
+        "category": "horror",
+        "question": "Describe in detail what you think is the scariest supernatural creature and why."
+      },
+      {
+        "id": 344,
+        "category": "physical",
+        "question": "Do 15 lunges across the room while balancing a book on your head."
+      },
+      {
+        "id": 345,
+        "category": "mental",
+        "question": "Try to name one movie that starts with each letter of the alphabet in 3 minutes."
+      },
+      {
+        "id": 346,
+        "category": "funny",
+        "question": "Use only your feet to unwrap and eat a candy or small snack."
+      },
+      {
+        "id": 347,
+        "category": "social",
+        "question": "Let the group choose an embarrassing story about you to share on social media."
+      },
+      {
+        "id": 348,
+        "category": "thrilling",
+        "question": "Let someone blindfold you and put three mystery items in your mouth to identify."
+      },
+      {
+        "id": 349,
+        "category": "horror",
+        "question": "Share the most disturbing dream you've ever had in detail."
+      },
+      {
+        "id": 350,
+        "category": "physical",
+        "question": "Hold a plank position for as long as possible (minimum 30 seconds)."
+      },
+      {
+        "id": 351,
+        "category": "mental",
+        "question": "Spell your full name backwards without hesitating."
+      },
+      {
+        "id": 352,
+        "category": "funny",
+        "question": "Create and demonstrate three new dance moves named after people in the room."
+      },
+      {
+        "id": 353,
+        "category": "social",
+        "question": "Let someone choose a random person in your contacts to send a selfie to without explanation."
+      },
+      {
+        "id": 354,
+        "category": "thrilling",
+        "question": "Play chicken with someone - stare into their eyes without blinking or laughing until someone gives up."
+      },
+      {
+        "id": 355,
+        "category": "horror",
+        "question": "Let someone write a fake crime scene outline around your body with tape or string."
+      },
+      {
+        "id": 356,
+        "category": "physical",
+        "question": "Perform 10 push-ups of any variety (modified is fine too)."
+      },
+      {
+        "id": 357,
+        "category": "mental",
+        "question": "Create a convincing fake fact about each person in the room."
+      },
+      {
+        "id": 358,
+        "category": "funny",
+        "question": "Attempt to sing a song while someone presses on your cheeks."
+      },
+      {
+        "id": 359,
+        "category": "social",
+        "question": "Let the group choose one question to ask your most recent Tinder/dating app match."
+      },
+      {
+        "id": 360,
+        "category": "thrilling",
+        "question": "Let someone pour a small amount of a drink down your back."
+      }
+    ]}
