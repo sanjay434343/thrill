@@ -1,24 +1,26 @@
-Thrill
-NemD Thrill is an exciting Truth or Dare game app that brings a fresh twist to classic fun! It offers three modes: Truth Only, Dare Only, and Mixed, making it perfect for parties, hangouts, or breaking the ice with friends.
+Thrill 🎉
+NemD Thrill is the ultimate Truth or Dare app, designed to bring excitement to your social gatherings! With three unique modes—Truth Only,
+Dare Only, and Mixed—this app guarantees endless fun, perfect for parties, friends, and breaking the ice.
 
-Features
-Truth Only Mode – Play with only truth questions.
+🌟 Features
+Truth Only Mode 📜 – Play with only truth questions.
 
-Dare Only Mode – Get creative with only dares.
+Dare Only Mode 🔥 – Take on creative dares.
 
-Mixed Mode – A mix of both truth questions and daring challenges.
+Mixed Mode 🎭 – A mix of both truths and dares for an unpredictable experience.
 
-User-friendly Interface – Easy to navigate and fun to use.
+User-Friendly Interface 🖥️ – Simple, intuitive, and easy to use.
 
-Endless Fun – Challenge your friends, have fun, and keep playing.
+Endless Fun 🕹️ – Challenge your friends and keep the fun going!
 
-How to Use
+🚀 How to Use
 Download and install NemD Thrill.
 
-Choose your preferred mode: Truth Only, Dare Only, or Mixed.
+Select your preferred mode: Truth Only, Dare Only, or Mixed.
 
-Start playing and have fun with your friends!
+Start playing and enjoy the thrill of the game! 🎉
 
-Support
-For support or inquiries, please contact us at:
+📩 Support
+For any support or inquiries, please feel free to reach out to us at:
 📧 Email: sanjay13649@gmail.com
+
