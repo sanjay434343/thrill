@@ -1,10 +1,10 @@
 {
-  "name": "NemD Thrill",
+  "name": "Clikkkk",
   "version": "1.0.0",
-  "description": "An exciting Truth or Dare app designed for social gatherings, featuring Truth Only, Dare Only, and Mixed modes for endless party fun.",
-  "icon_url": "https://github.com/sanjay434343/thrill/blob/main/assets/images/logo.png?raw=true",
-  "release_url": "https://github.com/sanjay434343/thrill/releases/tag/1.0.0",
-  "package_name": "com.example.nemdthrill",
-  "changelog": "Initial release with three game modes—Truth, Dare, and Mixed—for interactive and engaging party play.",
-  "category": "Entertainment"
+  "description": "Clik is a Flutter-based app that stores URLs locally and summarizes their content offline using NLP. Fast, secure, and internet-free.",
+  "icon_url": "hhttps://github.com/sanjay434343/Clik/blob/main/logo/logo.png?raw=true",
+  "release": "https://github.com/sanjay434343/Clik/releases/tag/1.0.0",
+  "package_name": "com.example.clik",
+  "changelog": "Initial release: local URL storage, offline NLP summarization, cross-platform support.",
+  "category": "Productivity"
 }
