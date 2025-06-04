@@ -4,7 +4,7 @@
   "description": "NemD Thrill is a Truth or Dare app designed to spark fun at parties with three unique modes: Truth Only, Dare Only, and Mixed. Simple, exciting, and perfect for any group.",
   "icon_url": "https://github.com/sanjay434343/thrill/blob/main/assets/images/logo.png?raw=true",
   "release": "https://github.com/sanjay434343/thrill/releases/tag/1.0.0",
-  "package_name": "com.example.nemdthrill",
+  "package_name": "com.example.thrill",
   "changelog": "Initial release: Truth, Dare, and Mixed modes for fun and interactive gameplay.",
   "category": "Entertainment"
 }
