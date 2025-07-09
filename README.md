@@ -1,5 +1,5 @@
 Thrill 🎉
-NemD Thrill is the ultimate Truth or Dare app, designed to bring excitement to your social gatherings! With three unique modes—Truth Only,
+Thrill is the ultimate Truth or Dare app, designed to bring excitement to your social gatherings! With three unique modes—Truth Only,
 Dare Only, and Mixed—this app guarantees endless fun, perfect for parties, friends, and breaking the ice.
 
 🌟 Features
